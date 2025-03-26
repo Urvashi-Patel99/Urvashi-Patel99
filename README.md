@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m Urvashi-Patel!
+- 👋 Hi there, I’m Urvashi Patel!
 🚀 About Me
 I'm a passionate Full Stack Developer, and java developer enthusiast. I specialize in creating  attractive and interactive websites .
 
